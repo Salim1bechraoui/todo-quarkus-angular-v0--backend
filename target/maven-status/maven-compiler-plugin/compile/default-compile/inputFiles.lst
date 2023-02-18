@@ -1,0 +1,10 @@
+/home/dell/IdeaProjects/todo-quarkus-angular/todo-backend-app/src/main/java/io/todo/dto/UserLoginDto.java
+/home/dell/IdeaProjects/todo-quarkus-angular/todo-backend-app/src/main/java/io/todo/utils/UserUtil.java
+/home/dell/IdeaProjects/todo-quarkus-angular/todo-backend-app/src/main/java/io/todo/resources/UserResource.java
+/home/dell/IdeaProjects/todo-quarkus-angular/todo-backend-app/src/main/java/io/todo/model/TodoTypeEnum.java
+/home/dell/IdeaProjects/todo-quarkus-angular/todo-backend-app/src/main/java/io/todo/dto/UserTokenDto.java
+/home/dell/IdeaProjects/todo-quarkus-angular/todo-backend-app/src/main/java/io/todo/resources/AuthResource.java
+/home/dell/IdeaProjects/todo-quarkus-angular/todo-backend-app/src/main/java/io/todo/resources/TodoResource.java
+/home/dell/IdeaProjects/todo-quarkus-angular/todo-backend-app/src/main/java/io/todo/model/Todo.java
+/home/dell/IdeaProjects/todo-quarkus-angular/todo-backend-app/src/main/java/io/todo/model/User.java
+/home/dell/IdeaProjects/todo-quarkus-angular/todo-backend-app/src/main/java/io/todo/security/jwt/TokenUtils.java
